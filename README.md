@@ -34,23 +34,23 @@ We are going to run a couple SQL queries and put the answers in the "Query Respo
 
 3. Find the MIN first_name, the county, and a count of all users in that county for counties with more than 10 users. There will be four results. List the last one. 
   * Hint: MIN, COUNT, JOIN, GROUP BY, HAVING
-
+*** Did not really understand how to do this one*****
 
 ## Query Responses
 
 1. Sums
-  * AK:
-  * CT
-  * TX:
-  * WY:
+  * AK: 6
+  * CT 5
+  * TX: 32
+  * WY: 3
 
 2.
-  * Area code:
+  * Area code: 973
 
 3.
-  * first_name:
-  * county:
-  * county total:
+  * first_name: zona
+  * county: Alamance
+  * county total: Los Angeles with 18
 
 
 ## Summary
